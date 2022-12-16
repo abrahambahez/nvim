@@ -13,8 +13,7 @@ mason.setup()
 mason_lspconfig.setup({
     ensure_installed = {
         "html",
-        "pyright"
+        "pyright",
+        "tsserver"
     },
-    -- auto-install configured servers (with lspconfig)
-    automatic_installation = true, -- not the same as ensure_installed
 })

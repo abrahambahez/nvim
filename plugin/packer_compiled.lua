@@ -154,6 +154,11 @@ _G.packer_plugins = {
     path = "/Users/sabhz/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["typescript.nvim"] = {
+    loaded = true,
+    path = "/Users/sabhz/.local/share/nvim/site/pack/packer/start/typescript.nvim",
+    url = "https://github.com/jose-elias-alvarez/typescript.nvim"
+  },
   ["vim-nightfly-guicolors"] = {
     loaded = true,
     path = "/Users/sabhz/.local/share/nvim/site/pack/packer/start/vim-nightfly-guicolors",
