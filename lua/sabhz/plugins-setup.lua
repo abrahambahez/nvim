@@ -65,8 +65,6 @@ return packer.startup(function(use)
     })
     --auto closing
     use("windwp/nvim-autopairs")
-    -- zettelkasten with zk
-    use("mickael-menu/zk-nvim")
     if packer_bootstrap then
         require("packer").sync()
     end

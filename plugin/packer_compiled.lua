@@ -168,11 +168,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/sabhz/.local/share/nvim/site/pack/packer/start/vim-surround",
     url = "https://github.com/tpope/vim-surround"
-  },
-  ["zk-nvim"] = {
-    loaded = true,
-    path = "/Users/sabhz/.local/share/nvim/site/pack/packer/start/zk-nvim",
-    url = "https://github.com/mickael-menu/zk-nvim"
   }
 }
 
