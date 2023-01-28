@@ -14,6 +14,7 @@ mason_lspconfig.setup({
     ensure_installed = {
         "html",
         "pyright",
-        "tsserver"
+        "tsserver",
+        "astro"
     },
 })
